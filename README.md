@@ -29,11 +29,11 @@ Sales-Insights/
 
 🛠️ Tools & Technologies
 
-Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+Programming: Python (Pandas, NumPy, Matplotlib)
 
-Visualization: Power BI / Tableau / Streamlit
+Visualization: Power BI 
 
-Database (optional): MySQL / PostgreSQL / SQLite
+Database (optional): MySQL 
 
 Version Control: Git & GitHub
 
